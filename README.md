@@ -22,6 +22,12 @@
 - 操作简单、文档完善、持续维护。
 - 代码开源、数据安全、完全免费。
 
+## 如何搭建 | How to build
+
+参考文章：[部署 PicX 图床到 Vercel - 维燕的数字花园](https://weiyan.cc/blog/discussions-68/)
+
+问题解决：[分支部署教程](https://github.com/tangly1024/NotionNext/issues/2309)
+
 ## 如何使用 | How to use
 
 通过 [GitHub OAuth 授权](https://picx-docs.xpoet.cn/docs/usage-guide/config.html#github-oauth-%E6%8E%88%E6%9D%83%E7%99%BB%E5%BD%95) 或 [填写 GitHub Token](https://picx-docs.xpoet.cn/docs/usage-guide/config.html#%E5%A1%AB%E5%86%99-github-token-%E7%99%BB%E5%BD%95) 登录到 [PicX](https://picx.xpoet.cn)，完成 [图床配置](https://picx-docs.xpoet.cn/docs/usage-guide/config.html#%E5%9B%BE%E5%BA%8A%E9%85%8D%E7%BD%AE) 后即可使用。
